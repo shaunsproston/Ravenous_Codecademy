@@ -7,5 +7,7 @@ The files I worked on specifically within this project were:
 ./src/App.js
 
 ./src/components/Business/Business.js
+
 ./src/components/BusinessList/BusinessList.js
+
 ./src/components/SearchBar/SearchBar.js
