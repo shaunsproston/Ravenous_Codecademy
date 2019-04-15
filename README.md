@@ -11,3 +11,5 @@ The files I worked on specifically within this project were:
 ./src/components/BusinessList/BusinessList.js
 
 ./src/components/SearchBar/SearchBar.js
+
+./src/util/Yelp.js
