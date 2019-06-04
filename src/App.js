@@ -1,5 +1,6 @@
 import React from 'react';
 import './App.css';
+
 import BusinessList from './components/BusinessList/BusinessList';
 import SearchBar from './components/SearchBar/SearchBar'
 import Yelp from './util/Yelp';
@@ -9,7 +10,7 @@ class App extends React.Component {
     super(props);
     this.state = {
       businesses: [],
-    };
+    }
 
     this.searchYelp = this.searchYelp.bind(this);
   }
